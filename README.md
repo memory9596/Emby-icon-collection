@@ -1,56 +1,57 @@
 # Emby-icon-collection
 
-本项目是一些 Emby 图标库集合，提供直连代理加速链接（图标也替换成直连代理加速链接了）
-
-## 诞生缘由
-
-本人用的 Emby 服都是直连可用的，但图标无法直连访问，所以借助公益 GitHub 代理加速处理了一下大佬们整理的图标集，现在图标也可以直连访问啦~
-
-> Github Proxy：`https://ghfast.top` 或 `https://gh-proxy.com`
-
-## 每月 15 日 21: 45 更新
-
-考虑到图标不常更新，所以 Cron 定了每月更新一次。
-
-### 离歌 emby 专属图标库（适用fileball Senplayer）
+### 离歌自用 Emby 图标
 
 ```
-https://raw.githubusercontent.com/lige47/QuanX-icon-rule/refs/heads/main/lige-emby-icon.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/lige47/icon.json
 ```
 
-直连加速：
-
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/lige47/QuanX-icon-rule/lige-emby-icon.json
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/lige47/icon.json
 ```
 
 > 仓库地址：[lige47/QuanX-icon-rule](https://github.com/lige47/QuanX-icon-rule)
 
-
-### 白糖自用Emby图标
+### 白糖自用 Emby 图标
 
 #### 圆形
 
 ```
-https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/baiitang/Yuan/tubiao.json
 ```
 
-直连加速：
-
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/baiitang/Sakura/Fileball/Yuan/tubiao.json
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/baiitang/Yuan/tubiao.json
 ```
 
 #### 方形
 
 ```
-https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/baiitang/Fang/tubiao.json
 ```
 
-直连加速：
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/baiitang/Fang/tubiao.json
+```
+
+#### 透明 108x108
 
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/baiitang/Sakura/Fileball/Fang/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/baiitang/Toun/tubiao.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/baiitang/Toun/tubiao.json
+```
+
+#### 透明 180x180
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/baiitang/Toun/Fwicon/tubiao.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/baiitang/Toun/Fwicon/tubiao.json
 ```
 
 > - 仓库地址：[baiitang/Sakura](https://github.com/baiitang/Sakura)
@@ -58,81 +59,134 @@ https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection
 
 ### Gikerwan
 
-```
-https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/tubiao.json
-```
+#### 不透明
 
-直连加速：
+##### 常规
 
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/ginibond/ginibond/Icons/emby/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/ginibond/emby/tubiao.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/ginibond/emby/tubiao.json
+```
+
+##### 变体
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/ginibond/collection/tubiao.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/ginibond/collection/tubiao.json
+```
+
+#### 透明
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/ginibond/Forward/tubiao.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/ginibond/Forward/tubiao.json
 ```
 
 > - 仓库地址：[ginibond/ginibond](https://github.com/ginibond/ginibond)
 > - 频道链接：[https://t.me/Gikerwan/11](https://t.me/Gikerwan/11)
 
-
-### Softlyx 自用Emby图标
+### Softlyx 自用 Emby 图标
 
 #### 圆形
 
 ```
-https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/Softlyx/Yuan/tubiao.json
 ```
 
-直连加速：
-
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/Softlyx/Fileball/YUAN/tubiao.json
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/Softlyx/Yuan/tubiao.json
 ```
 
 #### 方形
 
 ```
-https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/tubiao.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/Softlyx/Fang/tubiao.json
 ```
 
-直连加速：
-
 ```
-https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/Softlyx/Fileball/FANG/tubiao.json
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/Softlyx/Fang/tubiao.json
 ```
 
 > 仓库地址：[Softlyx/Fileball](https://github.com/Softlyx/Fileball)
 
+### Grindoo 自用 Emby 透明图标
 
-## 直连代理加速替换教程
-
-### 替换原理
-
-```shell
-echo $(curl $ICON_SRC_URL | sed "s|https://raw.githubusercontent.com|https://ghfast.top/https://raw.githubusercontent.com|g") | sed "s|https:\\\/\\\/raw.githubusercontent.com|https:\\\/\\\/ghfast.top\\\/https:\\\/\\\/raw.githubusercontent.com|g" > $ICON_PATH
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/Grindoo/icon.json
 ```
 
-### 例子
-
-以白糖方行图标包为例：
-
-URL 为 [https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json](https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json)
-- 👉 PATH=`baiitang/Sakura/Fileball/Fang/tubiao.json`
-- 👉 最终结果=[https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/baiitang/Sakura/Fileball/Fang/tubiao.json](https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/baiitang/Sakura/Fileball/Fang/tubiao.json)
-
-完整命令如下：
-
-```shell
-ICON_SRC_URL="https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json"
-ICON_PATH="baiitang/Sakura/Fileball/Fang/tubiao.json"
-mkdir $(dirname $ICON_PATH) -p
-echo $(curl $ICON_SRC_URL | sed "s|https://raw.githubusercontent.com|https://ghfast.top/https://raw.githubusercontent.com|g") | sed "s|https:\\\/\\\/raw.githubusercontent.com|https:\\\/\\\/ghfast.top\\\/https:\\\/\\\/raw.githubusercontent.com|g" > $ICON_PATH
-FINAL_ICON_PATH="https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/$ICON_PATH"
-echo $FINAL_ICON_PATH
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/Grindoo/icon.json
 ```
 
-把以上封装成脚本 `gh-proxy-url-replacer.sh` 后调用：
+> 仓库地址：[Grindoo/icon](https://github.com/Grindoo/icon)
 
-```shell
-./gh-proxy-url-replacer.sh https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json baiitang/Sakura/Fileball/Fang/tubiao.json
+### Tfel 自用 Emby 透明图标
+
 ```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/tfel00/icon.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/tfel00/icon.json
+```
+
+> 仓库地址：[TFEL00/Emby](https://github.com/TFEL00/Emby)
+
+### 𝖃𝖎𝖄𝖚 𝕷𝖎𝖚 自用 Emby 图标
+
+#### 不透明
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/xiyuliu509/entityicon.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/xiyuliu509/entityicon.json
+```
+
+#### 透明
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/xiyuliu509/invisible.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/xiyuliu509/invisible.json
+```
+
+#### 特供
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/xiyuliu509/fufu.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/xiyuliu509/fufu.json
+```
+
+> 仓库地址：[xiyuliu509/Player-Icon](https://github.com/xiyuliu509/Player-Icon)
+
+### huangxd 自用 Emby 图标
+
+```
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/huangxd/icons.json
+```
+
+```
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/huangxd/icons.json
+```
+
+> 仓库地址：[huangxd's Gist](https://gist.github.com/huangxd-/86eca2c70feed2f7e8ebbac1f012f893)
 
 #### Github Actions 脚本参考链接
 
@@ -140,8 +194,8 @@ echo $FINAL_ICON_PATH
 > 2. [yuanzl77/IPTV/blob/main/.github/workflows/main.yml](https://github.com/yuanzl77/IPTV/blob/main/.github/workflows/main.yml)
 > 3. [github action GITHUB_TOKEN 的使用，不用添加秘钥直接提交到当前仓库](https://neucrack.com/p/385)
 > 4. [remote: Write access to repository not granted. fatal: unable to access](https://stackoverflow.com/questions/70538793/remote-write-access-to-repository-not-granted-fatal-unable-to-access)
-
+> 5. [Keep scheduled workflow activity](https://github.com/marketplace/actions/keep-scheduled-workflow-activity)
 
 ## 感谢
 
-感谢以上图标包作者的付出~
+感谢以上图标包作者以及[RebornQ](https://github.com/RebornQ)的用心之作~
