@@ -4,14 +4,29 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.github/**'
+      - '*.md'
   schedule:
-    - cron: '45 21 15 * *'
+    - cron: '45 22 * * *'
+  workflow_dispatch:
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Keep scheduled workflow activity
+      uses: WaterLemons2k/scheduled-workflow-activity-action@v1
+
+    - name: Delete workflow runs
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 0
+
     - name: Checkout repository
       uses: actions/checkout@v3
 
@@ -20,47 +35,104 @@ jobs:
 
     - name: Run lige icon proxy shell script
       run: |
-        ICON_SRC_URL="https://raw.githubusercontent.com/lige47/QuanX-icon-rule/refs/heads/main/lige-emby-icon.json"
-        ICON_PATH="lige47/QuanX-icon-rule/lige-emby-icon.json"
+        ICON_SRC_URL="https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/lige-emby-icon.json"
+        ICON_PATH="lige47/lige-emby-icon.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
 
     - name: Run Baitang icon proxy shell script
       run: |
         ICON_SRC_URL="https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/tubiao.json"
-        ICON_PATH="baiitang/Sakura/Fileball/Yuan/tubiao.json"
+        ICON_PATH="baiitang/Yuan/tubiao.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
-        
+
+        ICON_SRC_URL="https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/tubiao.json"
+        ICON_PATH="baiitang/Toun/tubiao.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+        ICON_SRC_URL="https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/tubiao.json"
+        ICON_PATH="baiitang/Toun/Fwicon/tubiao.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
         ICON_SRC_URL="https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/tubiao.json"
-        ICON_PATH="baiitang/Sakura/Fileball/Fang/tubiao.json"
+        ICON_PATH="baiitang/Fang/tubiao.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
 
     - name: Run Gikerwan icon proxy shell script
       run: |
         ICON_SRC_URL="https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/tubiao.json"
-        ICON_PATH="ginibond/ginibond/Icons/emby/tubiao.json"
+        ICON_PATH="ginibond/emby/tubiao.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+        
+        ICON_SRC_URL="https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/tubiao.json"
+        ICON_PATH="ginibond/collection/tubiao.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+        ICON_SRC_URL="https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/tubiao.json"
+        ICON_PATH="ginibond/Forward/tubiao.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
 
     - name: Run Softlyx icon proxy shell script
       run: |
         ICON_SRC_URL="https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/tubiao.json"
-        ICON_PATH="Softlyx/Fileball/YUAN/tubiao.json"
-        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
-        
-        ICON_SRC_URL="https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/tubiao.json"
-        ICON_PATH="Softlyx/Fileball/FANG/tubiao.json"
+        ICON_PATH="Softlyx/YUAN/tubiao.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
 
-    - name: Commit and push if changed
+        ICON_SRC_URL="https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/tubiao.json"
+        ICON_PATH="Softlyx/FANG/tubiao.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Run Grindoo icon proxy shell script
       run: |
+        ICON_SRC_URL="https://raw.githubusercontent.com/Grindoo/icon/main/icon.json"
+        ICON_PATH="Grindoo/icon.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Run Tfel icon proxy shell script
+      run: |
+        ICON_SRC_URL="https://raw.githubusercontent.com/TFEL00/Emby/main/TFEL-emby-icons.json"
+        ICON_PATH="TFEL00/TFEL-emby-icons.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Run xiyuliu icon proxy shell script
+      run: |
+        ICON_SRC_URL="https://raw.githubusercontent.com/xiyuliu509/Player-Icon/master/entityicon.json"
+        ICON_PATH="xiyuliu509/entityicon.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+        ICON_SRC_URL="https://raw.githubusercontent.com/xiyuliu509/Player-Icon/master/invisible.json"
+        ICON_PATH="xiyuliu509/invisible.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Run huangxd icon proxy shell script
+      run: |
+        ICON_SRC_URL="https://gist.githubusercontent.com/huangxd-/86eca2c70feed2f7e8ebbac1f012f893/raw/icons.json"
+        ICON_PATH="huangxd/icons.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Run sooyaaabo icon proxy shell script
+      run: |
+        ICON_SRC_URL="https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json"
+        ICON_PATH="sooyaaabo/Emby-Icon.json"
+        ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
+
+    - name: Commit and push
+      run: |
+        cd release || exit 1
+        git init
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update icon proxy files"
-          git push
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git checkout -b release
+        git add .
+        git commit -m "Auto-update icon proxy files"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f -u origin release
+
+    - name: Purge jsdelivr CDN
+      run: |
+        cd release || exit 1
+        while IFS= read -r -d '' path; do
+            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${path#./}"
+        done < <(find . -not -path './.git/*' -not -name '.git' -print0)
 
     env:
       TZ: Asia/Shanghai

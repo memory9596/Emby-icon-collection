@@ -1,9 +1,11 @@
 #!/bin/sh
 
 ICON_SRC_URL="$1"
-ICON_PATH="$2"
-# GH_PROXY_HOST="$3"
-mkdir $(dirname $ICON_PATH) -p
-echo $(curl $ICON_SRC_URL | sed "s|https://raw.githubusercontent.com|https://ghfast.top/https://raw.githubusercontent.com|g") | sed "s|https:\\\/\\\/raw.githubusercontent.com|https:\\\/\\\/ghfast.top\\\/https:\\\/\\\/raw.githubusercontent.com|g" > $ICON_PATH
-FINAL_ICON_PATH="https://ghfast.top/https://raw.githubusercontent.com/Reborn/Emby-icon-collection/refs/heads/main/$ICON_PATH"
-echo $FINAL_ICON_PATH
+ICON_PATH="release/$2"
+mkdir -p "$(dirname "$ICON_PATH")"
+curl -sL --fail "$ICON_SRC_URL" | \
+    sed -E \
+    -e 's|https://raw.githubusercontent.com/([^/]+)/([^/]+)(/refs/heads)?/([^/]+)/(.*)|https://testingcf.jsdelivr.net/gh/\1/\2@\4/\5|g' \
+    -e 's|https:\\/\\/raw.githubusercontent.com\\/([^/]+)\\/([^/]+)\\/([^/]+)\\/([^/]+)\\/(.*)|https://testingcf.jsdelivr.net/gh/\1/\2@\3/\4/\5|g' \
+    > "$ICON_PATH"
+sed -i ':a;N;$!ba;s/,\n\(\s*\)]/\n\1]/g' "$ICON_PATH"
