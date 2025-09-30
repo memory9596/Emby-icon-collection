@@ -133,11 +133,11 @@ https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/Grindo
 ### Tfel 自用 Emby 透明图标
 
 ```
-https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/TFEL00/TFEL-emby-icons.json
+https://raw.githubusercontent.com/memory9596/Emby-icon-collection/release/TFEL00/TFEL-Emby.json
 ```
 
 ```
-https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/TFEL00/TFEL-emby-icons.json
+https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/TFEL00/TFEL-Emby.json
 ```
 
 > 仓库地址：[TFEL00/Emby](https://github.com/TFEL00/Emby)

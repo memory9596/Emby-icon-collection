@@ -89,8 +89,8 @@ jobs:
 
     - name: Run Tfel icon proxy shell script
       run: |
-        ICON_SRC_URL="https://raw.githubusercontent.com/TFEL00/Emby/main/TFEL-emby-icons.json"
-        ICON_PATH="TFEL00/TFEL-emby-icons.json"
+        ICON_SRC_URL="https://raw.githubusercontent.com/TFEL00/Emby/main/TFEL-Emby.json"
+        ICON_PATH="TFEL00/TFEL-Emby.json"
         ./gh-proxy-url-replacer.sh $ICON_SRC_URL $ICON_PATH
 
     - name: Run xiyuliu icon proxy shell script
