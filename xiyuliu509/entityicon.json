@@ -1,0 +1,119 @@
+{
+"name":"五芙临门 · Emby图标库", 
+"description":"收录各类 Emby 实体图标，格式为 180×180，按服名/群名命名，A-Z排列，方便查找。@xiyu", 
+"icons":
+    [	
+	{"name":"ASK", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ASK.png"},	
+	{"name":"ASK01", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ASK01.png"},
+	{"name":"ASK_Ultra", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ASK_Ultra.png"},
+	{"name":"阿拉丁", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Aladdin.png"},
+
+	{"name":"冰镇西瓜", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Bingzhenxigua.png"},
+
+	{"name":"二刺螈", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Erciyuan.png"},
+	{"name":"EMOS", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/EMOS.png"},
+
+	{"name":"DPeak", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/DPeak.png"},
+			
+	{"name":"反集邮", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FJY.png"},
+
+	{"name":"非越", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Feiyue.png"},
+	{"name":"肥牛", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FatBeef.png"},
+	{"name":"芙服", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FUFU001.png"},
+	{"name":"芙服1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FUFU5.png"},
+	{"name":"芙服2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FUFU6.png"},
+	{"name":"91芙服", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FUFU_Porn.png"},
+	{"name":"91芙服1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FUFU_Porn1.png"},
+	{"name":"飞跃银河", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueYinhe.png"},
+	{"name":"飞跃彩虹", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueRainbow.png"},
+	{"name":"飞跃彩虹1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueRainbow1.png"},
+	{"name":"飞跃彩虹2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueRainbow2.png"},	
+	{"name":"飞跃彩虹3", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueRainbow3.png"},
+	{"name":"飞跃彩虹4", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/FeiyueRainbow5.png"},
+	{"name":"飞跃地平线", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Feiyuedipingxian.png"},	
+	{"name":"飞跃地平线1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/DPX1.png"},	
+	{"name":"飞跃地平线2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/DPX2.png"},	
+		
+	{"name":"Gugu", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Gugu.png"},
+			
+	{"name":"后海", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Hohai.png"},
+	{"name":"HKA", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/HKA.png"},
+
+	{"name":"JMS", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/JMS.png"},
+	{"name":"见手青", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Jianshouqing.png"},
+	{"name":"惊蛰", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Jingzhe.png"},
+	{"name":"結束バンド", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Jieshuyuedui.png"},
+	{"name":"結束バンド1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Jieshuyuedui1.png"},
+	
+	{"name":"L", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Lemby.png"},
+	{"name":"临境", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Liminal.png"},
+	{"name":"临境1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Liminal0.png"},
+	{"name":"享境", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/XJ.png"},
+	{"name":"临小境", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/LXJ.png"},
+	{"name":"临小境1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/LXJ0.png"},
+	{"name":"临境PRO", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/LJP.png"},
+		
+	{"name":"蘑菇", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MG.png"},
+	{"name":"蘑菇PRO", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MG0.png"},
+	{"name":"蘑菇Ultra", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MG1.png"},
+	{"name":"蘑菇Ultra1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MG2.png"},
+	{"name":"月饼", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Mooncake.png"},
+	{"name":"Msky", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Msky.png"},
+	{"name":"Misty", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Misty.png"},
+	{"name":"明天倒闭", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MTDB.png"},		
+	{"name":"明天倒闭1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MTDB0.png"},
+	{"name":"明天倒闭2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MTDB1.png"},
+	{"name":"明天倒闭3", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MTDB2.png"},
+	{"name":"明天倒闭4", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/MTDB3.png"},
+
+					
+	{"name":"Nebula", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Nebula.png"},
+	{"name":"Ntrrr", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Ntrrr.png"},
+	    	
+	{"name":"Onyra", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Onyra.png"},	
+	{"name":"Odyssey", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/invisible/Odyssey.png"},
+
+	{"name":"Peach", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Peach.png"},
+	{"name":"PiliPili", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/PiliPili.png"},
+	{"name":"PornEmby", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/PornEmby.png"},
+		
+	{"name":"起点站", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Qidianzhan.png"},
+
+	{"name":"入境", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Rujingemby.png"},
+		
+	{"name":"水母", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Shuimu.png"},
+	{"name":"SDL", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/SaturDayLite.png"},
+	{"name":"SaoDu", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu.png"},
+	{"name":"SaoDu1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu0.png"},
+	{"name":"SaoDu2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu1.png"},
+	{"name":"SaoDu3", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu2.png"},
+	{"name":"SaoDu4", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu3.png"},
+	{"name":"SaoDu5", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Saodu4.png"},
+		
+	{"name":"天南", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Nanflix.png"},
+	{"name":"探花", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Tanhua.png"},
+	{"name":"特卡", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Terca.png"},
+
+	{"name":"新船", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/XC.png"},
+
+	{"name":"Violet", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Violet.png"},
+	{"name":"Violet1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Violet1.png"},
+	{"name":"Violet2", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Violet3.png"},	
+	
+	{"name":"稳健", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Wenjian.png"},
+	   
+	{"name":"鸢尾", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/YuanWei.png"},
+	{"name":"叶子", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Yezi.png"},
+	{"name":"叶子1", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Yezi1.png"},
+	{"name":"Youno", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Youno.png"},
+	{"name":"YiJia", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/YiJia.png"},
+
+	{"name":"ZOX", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ZOX.png"},
+	{"name":"纸片人", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ZhiPianRen.png"},
+	{"name":"ZoxFree", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/ZoxFree.png"},
+
+	{"name":"105", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/105.png"},
+	{"name":"1111", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/1111.png"},
+	{"name":"Alist", "url":"https://testingcf.jsdelivr.net/gh/xiyuliu509/Player-Icon@master/icon/entity/Alist.png"}
+    ]
+}
