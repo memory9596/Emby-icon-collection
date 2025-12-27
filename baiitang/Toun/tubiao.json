@@ -1,0 +1,111 @@
+{
+"name":"Emby透明图标@baiitang", 
+"description":"此图标格式108x108，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名（抠图有难度不一定全都有），如果你有好的作品，欢迎投稿。", 
+"icons":
+    [
+	{"name":"Alphatv", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Alphatv.png"},
+	{"name":"Alphatvx", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Alphatvx.png"},
+	{"name":"Aurora", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Aurora.png"},
+	{"name":"Anisaga", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Anisaga.png"},
+	    
+	{"name":"Bingzhenxigua", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Bingzhenxigua.png"},
+	    
+	{"name":"Coco", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Coco.png"},
+	{"name":"Cinetrail", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Cinetrail.png"},
+	{"name":"Caihong", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Caihong.png"},
+	{"name":"Caihong1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Caihong1.png"},
+	{"name":"Charontv", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Charontv.png"},
+	{"name":"Ccemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Ccemby.png"},
+	{"name":"Ccemby1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Ccemby1.png"},
+	    
+	{"name":"Douban", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Douban.png"},
+	{"name":"Dpeak", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Dpeak.png"},
+	{"name":"Dvyy", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Dvyy.png"},
+	{"name":"Dpxemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Dpxemby.png"},
+
+	{"name":"Fatbeef", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Fatbeef.png"},
+	{"name":"Fhlemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Fhlemby.png"},
+	{"name":"Fufuemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Fufuemby.png"},
+	    
+	{"name":"Gymeowfly", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Gymeowfly.png"},
+	{"name":"Gugu", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Gugu.png"},
+	    
+	{"name":"Hka", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Hka.png"},
+	{"name":"Hkb", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Hkb.png"},
+        
+	{"name":"Iris", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Iris.png"},
+        
+	{"name":"Jianshouqing", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Jianshouqing.png"},
+	{"name":"Jellyfish", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Jellyfish.png"},
+	{"name":"July", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/July.png"},
+	    
+	{"name":"Kiku", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Kiku.png"},
+	{"name":"Kiku1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Kiku1.png"},
+
+	{"name":"Lyrebird", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Lyrebird.png"},
+	{"name":"Lyrebird1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Lyrebird1.png"},
+	{"name":"Levilde", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Levilde.png"},
+	    
+	{"name":"Magpie", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Magpie.png"},
+	{"name":"Magpie1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Magpie1.png"},
+	{"name":"Mooncake", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Mooncake.png"},
+	{"name":"Mooncake1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Mooncake1.png"},
+	{"name":"Mooncake2", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Mooncake2.png"},
+	{"name":"Mooncake3", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Mooncake3.png"},
+	{"name":"Moyunge", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Moyunge.png"},
+	{"name":"Moyunge1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Moyunge1.png"},
+	{"name":"Mooguu", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Mooguu.png"},
+	{"name":"Micu", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Micu.png"},
+	{"name":"Misty", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Misty.png"},
+	    
+	{"name":"Ntrrr", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Ntrrr.png"},
+	{"name":"Nebula", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Nebula.png"},
+	{"name":"Nanflix", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Nanflix.png"},
+	{"name":"Nayovo", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Nayovo.png"},
+	
+	{"name":"Omega", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Omega.png"},
+	{"name":"Ouo", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Ouo.png"},
+	    
+	{"name":"Pilipili", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Pilipili.png"},
+	{"name":"Pilipili1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Pilipili1.png"},
+	{"name":"Pandatv", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Pandatv.png"},
+	{"name":"Paolu", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Paolu.png"},
+	{"name":"Peach", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Peach.png"},
+	{"name":"Pianke", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Pianke.png"},
+	{"name":"Pianke1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Pianke1.png"},
+	{"name":"Plusemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Plusemby.png"},
+	{"name":"Plusemby1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Plusemby1.png"},
+	    
+	{"name":"Rjemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Rjemby.png"},
+	{"name":"Robo", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Robo.png"},
+	{"name":"Rujing", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Rujing.png"},
+	    
+	{"name":"Shufu", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Shufu.png"},
+	{"name":"Sssjx", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Sssjx.png"},
+	{"name":"Star", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Star.png"},
+	{"name":"Star1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Star1.png"},
+	{"name":"Stark", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Stark.png"},
+	{"name":"Spacek", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Spacek.png"},
+        
+	{"name":"Terminus", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Terminus.png"},
+	{"name":"Temby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Temby.png"},
+	{"name":"Tecar", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Tecar.png"},
+	{"name":"Tdckemby", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Tdckemby.png"},
+	{"name":"Tank", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Tank.png"},
+	{"name":"Tanhua", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Tanhua.png"},
+	    
+	{"name":"Violet", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Violet.png"},
+	{"name":"Violet1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Violet1.png"},
+	{"name":"Violet2", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Violet2.png"},
+	{"name":"Violet3", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Violet3.png"},
+
+	{"name":"Yezi", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Yezi.png"},
+	{"name":"Yezi1", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Yezi1.png"},
+	{"name":"Yomo", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Yomo.png"},
+	{"name":"Yunhai", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Yunhai.png"},
+	{"name":"Youno", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/Youno.png"},
+    
+	{"name":"1111", "url":"https://testingcf.jsdelivr.net/gh/baiitang/Sakura@main/Fileball/Toun/icon/1111.png"}
+	
+    ]
+}
