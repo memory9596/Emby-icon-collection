@@ -1,0 +1,442 @@
+{
+  "name": "Forward icon self-service upload",
+  "description": "by huangxd-\uff0c\u56fe\u6807\u81ea\u52a9\u4e0a\u4f20\uff0c\u8bf7\u6ce8\u610f\uff1a1. \u4e0d\u8981\u8086\u610f\u4e0a\u4f20 2. \u5e7f\u544a\u4e0d\u8981\u4e0a\u4f20 3. \u4e71\u4e03\u516b\u7cdf\u7684\u4e0d\u8981\u4e0a\u4f20",
+  "icons": [
+    {
+      "name": "Hualu",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/20/0393cc00736499d4.png"
+    },
+    {
+      "name": "404",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/20/71de3616ff9d9743.png"
+    },
+    {
+      "name": "\u8611\u83c7Pro",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/21/5c5b3762adf37537.png"
+    },
+    {
+      "name": "\u8611\u83c7Ultra",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/21/d3d3339d0599c417.png"
+    },
+    {
+      "name": "\u58a8\u4e91\u96012",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/21/8088f1267cc64093.png"
+    },
+    {
+      "name": "Hualu1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/21/be8bd0e157ec7606.jpeg"
+    },
+    {
+      "name": "buchixiangcai",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/eb67c72c51ae578e.jpg"
+    },
+    {
+      "name": "69",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/08c487cbe7d4a3a5.jpg"
+    },
+    {
+      "name": "ME2.0",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/0f33e27491672611.jpg"
+    },
+    {
+      "name": "me2.0",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/0f33e27491672611.jpg"
+    },
+    {
+      "name": "s",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/ceb90cf045de51c5.png"
+    },
+    {
+      "name": "s1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/3bfb2e71f2389e12.png"
+    },
+    {
+      "name": "mdl",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/2c74841db5eddccf.jpg"
+    },
+    {
+      "name": "fn",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/22/16b53ec8db99684c.jpg"
+    },
+    {
+      "name": "692",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/2d60931bba64e7d6.jpg"
+    },
+    {
+      "name": "dabotv2",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/588df32208f702d7.jpg"
+    },
+    {
+      "name": "ME1.0",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/8ac024fed7c97d87.jpg"
+    },
+    {
+      "name": "ME2.01",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/f4ac4cce853cb9a1.jpg"
+    },
+    {
+      "name": "Long",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/d845b8bc5665d00f.png"
+    },
+    {
+      "name": "Long2",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/0bdd43cf89a8e662.png"
+    },
+    {
+      "name": "\u58a8\u4e91\u96013",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/c89deb03de9acde0.png"
+    },
+    {
+      "name": "SNTP1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/23/15b61315a4b453c3.png"
+    },
+    {
+      "name": "4041",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/24/0ebdf16359cd4de3.png"
+    },
+    {
+      "name": "Leemby",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/24/abb013c6a14f654f.jpg"
+    },
+    {
+      "name": "laobiemby",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/24/3ee0501269a4aae7.jpg"
+    },
+    {
+      "name": "younoplus",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/24/875deb6d6b7821b4.jpeg"
+    },
+    {
+      "name": "misay",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/25/b991c5a9245b8705.jpg"
+    },
+    {
+      "name": "\u4e34",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/25/340382dd2e342ab1.jpeg"
+    },
+    {
+      "name": "laobiemby1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/25/766ac12a69601da3.jpg"
+    },
+    {
+      "name": "\u732b\u732b",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/088ac60acc8098bd.png"
+    },
+    {
+      "name": "\u72f8\u82b1\u732b",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/27e5cd6f364c3f7e.png"
+    },
+    {
+      "name": "\u72f8\u82b1\u732b2",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/53977b21348acd3e.png"
+    },
+    {
+      "name": "le",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/e30d80364cbf514f.jpeg"
+    },
+    {
+      "name": "ys",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/f7ef63d34981530e.jpeg"
+    },
+    {
+      "name": "4042",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/18eab624e53956e7.jpeg"
+    },
+    {
+      "name": "le1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/26/7b3b782fe54e3b2c.png"
+    },
+    {
+      "name": "Cookie",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/28/ef1f5177244e2e29.jpg"
+    },
+    {
+      "name": "me2.01",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/28/d8e69980804c242b.jpg"
+    },
+    {
+      "name": "me",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/28/e85a980ef356e1f5.jpg"
+    },
+    {
+      "name": "zsw",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/29/486cd0565167522e.jpeg"
+    },
+    {
+      "name": "cookie",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/29/718305da6be023ec.jpeg"
+    },
+    {
+      "name": "xyz",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/30/6575423d4d4824de.jpeg"
+    },
+    {
+      "name": "zoulu",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/30/bf0422b63ee240b6.jpg"
+    },
+    {
+      "name": "xyz1",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/31/4d5a5dca962f12f6.jpg"
+    },
+    {
+      "name": "xyz2",
+      "url": "https://s3.bmp.ovh/imgs/2025/12/31/1680d938f7ebdc68.jpg"
+    },
+    {
+      "name": "\u53f6\u5b50\u7f51\u76d8\u670d",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/01/2e6a9750873d7035.jpeg"
+    },
+    {
+      "name": "\u53f6\u5b50\u786c\u76d8\u670d",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/01/ffc1c14756fbe51f.jpeg"
+    },
+    {
+      "name": "lily",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/01/5867679e4722f01a.png"
+    },
+    {
+      "name": "laoyouji",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/01/6e4ea4ab1d80a0e5.jpg"
+    },
+    {
+      "name": "\u6ce5\u568e\u65b0",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/02/d8bfad074e4820f1.jpg"
+    },
+    {
+      "name": "TFTV",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/02/28016cc0378b0a44.jpeg"
+    },
+    {
+      "name": "ETFLIX",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/05/244d193f74ddf832.jpeg"
+    },
+    {
+      "name": "gs",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/07/3012eb19b1fb4a34.png"
+    },
+    {
+      "name": "etf\u5706",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/07/e395ee3c064ddc8d.jpg"
+    },
+    {
+      "name": "xyz\u5706\u5f62",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/07/0c9fa5354372381e.jpg"
+    },
+    {
+      "name": "gousheng",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/07/c1b10fce321cbdba.jpeg"
+    },
+    {
+      "name": "sdl",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/09/15b6610457af2984.jpeg"
+    },
+    {
+      "name": "bmh",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/10/c47e996f116d3812.jpeg"
+    },
+    {
+      "name": "wm",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/10/c09374f4b4ff1ada.png"
+    },
+    {
+      "name": "gemini",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/12/e525fcc093bac4d1.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/12/4df49453188784f4.png"
+    },
+    {
+      "name": "ChatGPT1",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/12/4df49453188784f4.png"
+    },
+    {
+      "name": "gemini1",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/12/c7fd80e598db30c4.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/12/35a295240c0ffd0c.png"
+    },
+    {
+      "name": "huyun",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/14/fd8f9e023e718bb1.jpeg"
+    },
+    {
+      "name": "huyun1",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/14/c8cf89437781acf6.jpeg"
+    },
+    {
+      "name": "hellohk",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/18/22f4ff017ae47cce.png"
+    },
+    {
+      "name": "nh",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/18/a44c9daed203c640.jpeg"
+    },
+    {
+      "name": "cdn",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/18/f1b4403513cbf934.jpeg"
+    },
+    {
+      "name": "hg",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/18/8bc7f3b9dc17c794.jpeg"
+    },
+    {
+      "name": "hello",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/18/5193387e9ef30387.jpeg"
+    },
+    {
+      "name": "sdx",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/19/2f49c2b04e2d1cd9.jpeg"
+    },
+    {
+      "name": "hualu",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/19/87ace1dfd0e55f1b.jpeg"
+    },
+    {
+      "name": "\u732b\u718a",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/21/e0b8a4794581017c.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://s3.bmp.ovh/imgs/2026/01/21/f80c9a04c4771d82.png"
+    },
+    {
+      "name": "\u9ca8\u9c7c",
+      "url": "https://s3.bmp.ovh/2026/01/27/lQuvbJot.jpg"
+    },
+    {
+      "name": "gousheng1",
+      "url": "https://s3.bmp.ovh/2026/01/27/T9vHT7vQ.jpg"
+    },
+    {
+      "name": "Unbound",
+      "url": "https://s3.bmp.ovh/2026/01/30/mpdWN06p.jpg"
+    },
+    {
+      "name": ".",
+      "url": "https://s3.bmp.ovh/2026/01/31/WxqZlryM.jpg"
+    },
+    {
+      "name": "Flylife",
+      "url": "https://s3.bmp.ovh/2026/02/01/gRlTLNB1.png"
+    },
+    {
+      "name": "Ryan",
+      "url": "https://s3.bmp.ovh/2026/02/01/ImCWx9hI.jpg"
+    },
+    {
+      "name": "WeEmby",
+      "url": "https://s3.bmp.ovh/2026/02/01/IQ5p02Bp.jpg"
+    },
+    {
+      "name": "MakkaPakka",
+      "url": "https://s3.bmp.ovh/2026/02/02/6T4mNBC3.jpg"
+    },
+    {
+      "name": "niubi",
+      "url": "https://s3.bmp.ovh/2026/02/02/nUJFoSkh.jpg"
+    },
+    {
+      "name": "as",
+      "url": "https://s3.bmp.ovh/2026/02/02/vBLrO0Vi.jpg"
+    },
+    {
+      "name": "jerry",
+      "url": "https://s3.bmp.ovh/2026/02/03/3BJFLQGy.jpg"
+    },
+    {
+      "name": "Eoos",
+      "url": "https://s3.bmp.ovh/2026/02/04/s4Mu6Liz.jpg"
+    },
+    {
+      "name": "\u725b\u903c",
+      "url": "https://s3.bmp.ovh/2026/02/04/iVQuRjOK.png"
+    },
+    {
+      "name": "xiaoxiami",
+      "url": "https://s3.bmp.ovh/2026/02/06/yrlELzCc.jpg"
+    },
+    {
+      "name": "luxrealm pro",
+      "url": "https://s3.bmp.ovh/2026/02/06/k5lfvLfc.jpg"
+    },
+    {
+      "name": "\u4eab\u5883",
+      "url": "https://s3.bmp.ovh/2026/02/06/k5lfvLfc.jpg"
+    },
+    {
+      "name": "Levilde",
+      "url": "https://s3.bmp.ovh/2026/02/07/5LNfvebj.jpg"
+    },
+    {
+      "name": "xxm",
+      "url": "https://s3.bmp.ovh/2026/02/07/4qX685gJ.jpg"
+    },
+    {
+      "name": "Potdot_Group",
+      "url": "https://s3.bmp.ovh/2026/02/07/HnftNVja.jpg"
+    },
+    {
+      "name": "123",
+      "url": "https://s3.bmp.ovh/2026/02/07/ecd9RZCx.gif"
+    },
+    {
+      "name": "\u8c37\u6b4c\u4eba\u673a",
+      "url": "https://s3.bmp.ovh/2026/02/10/jWCOxY28.webp"
+    },
+    {
+      "name": "ad",
+      "url": "https://s3.bmp.ovh/2026/02/10/Z9AAMYNn.jpg"
+    },
+    {
+      "name": "\u4e2d\u56fd\u5e7f\u7535",
+      "url": "https://s3.bmp.ovh/2026/02/10/Uda8c32M.jpg"
+    },
+    {
+      "name": "nicegram\u56fe\u6807",
+      "url": "https://s3.bmp.ovh/2026/02/10/vWvSHnta.png"
+    },
+    {
+      "name": "\u817e\u8baf\u89c6\u9891",
+      "url": "https://s3.bmp.ovh/2026/02/11/ipOnqcfX.png"
+    },
+    {
+      "name": "YounoPro",
+      "url": "https://s3.bmp.ovh/2026/02/11/tPwl4izF.png"
+    },
+    {
+      "name": "YounoPro-\u767d\u8272",
+      "url": "https://s3.bmp.ovh/2026/02/11/kxRpc85h.jpg"
+    },
+    {
+      "name": "YounoPro-\u767d\u82721",
+      "url": "https://s3.bmp.ovh/2026/02/11/ItZcI3lg.png"
+    },
+    {
+      "name": "\u54c8\u54c8",
+      "url": "https://s3.bmp.ovh/2026/02/14/twWEJJ6R.jpg"
+    },
+    {
+      "name": "xiaoxiami1",
+      "url": "https://s3.bmp.ovh/2026/02/15/d2P3BaDD.jpg"
+    },
+    {
+      "name": "AI EMBY",
+      "url": "https://s3.bmp.ovh/2026/02/16/8GsbF009.jpg"
+    },
+    {
+      "name": "ROC\u9cb2\u9e4f",
+      "url": "https://s3.bmp.ovh/2026/02/17/gJnKIDQA.jpg"
+    },
+    {
+      "name": "Nice emby",
+      "url": "https://s3.bmp.ovh/2026/02/18/FSFBp5HC.jpg"
+    },
+    {
+      "name": "\u732b\u732bemby",
+      "url": "https://s3.bmp.ovh/2026/02/21/rw67Bn2J.jpg"
+    }
+  ]
+}
