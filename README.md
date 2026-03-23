@@ -190,6 +190,28 @@ https://testingcf.jsdelivr.net/gh/memory9596/Emby-icon-collection@release/sooyaa
 
 > 仓库地址：[sooyaaabo/IconLibrary](https://github.com/sooyaaabo/IconLibrary)
 
+### Zzzの聚合图标
+
+#### 透明
+
+```
+https://gist.githubusercontent.com/Zzzwannasleep/fe6e84f43fcd64672ec71302f48a01ea/raw/icons.json
+```
+
+#### 圆形
+
+```
+https://gist.githubusercontent.com/Zzzwannasleep/1da6e9d12cd9285980c6aba05855dede/raw/icons.json
+```
+
+#### 方形
+
+```
+https://gist.githubusercontent.com/Zzzwannasleep/a52322ad8cf1dcf7462dd4a33816e0f4/raw/icons.json
+```
+
+> 来源：[Hatsune Mikuの小屋](https://t.me/MikudesuChannels/240)
+
 #### Github Actions 脚本参考链接
 
 > 1. [fanmingming/live/blob/main/.github/workflows/epg.yml](https://github.com/fanmingming/live/blob/main/.github/workflows/epg.yml)
