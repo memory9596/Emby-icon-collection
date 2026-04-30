@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Keep scheduled workflow activity
-      uses: WaterLemons2k/scheduled-workflow-activity-action@v1
+      uses: WaterLemons2k/scheduled-workflow-activity-action@v2
 
     - name: Delete workflow runs
       uses: Mattraks/delete-workflow-runs@v2
@@ -28,7 +28,7 @@ jobs:
         keep_minimum_runs: 0
 
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Check the shell script permission
       run: chmod +x gh-proxy-url-replacer.sh
